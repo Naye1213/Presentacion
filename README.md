@@ -2,7 +2,7 @@
 
 Estudiante de la Escuela de Geografia de la [UCR](https://www.ucr.ac.cr/)
 
-![](Gatos.jpg)
+![](gatos.jpg)
 
 # Cursos matriculados
 
